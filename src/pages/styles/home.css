@@ -1,0 +1,46 @@
+.homeHeader {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+
+.homePage Footer {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+
+.homeLinks {
+    display: flex;
+    justify-content: center;
+}
+
+.homeLinkObject {
+    margin: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 15px;
+    color: black;
+}
+
+.homeContent {
+    display: flex;
+    justify-content: flex-start;
+    width: 50%;
+    height: 100%;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    font-size: 20px;
+}
+
+.homeContentBullet {
+    padding-top: 5px;
+}
+
+.homeContentText {
+    padding-left: 20px;
+}
