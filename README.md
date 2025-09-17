@@ -1,4 +1,5 @@
 GYSAGO
+Contributed with: Alexander Kincaid, and Ethan Glover 
 
 Clone Functionality of the website "Amazon".
 Simplistic prototype that can let users browse and shop on different categories (clothing, shoes, household essentials, etc.)
